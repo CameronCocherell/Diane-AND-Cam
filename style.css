@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans:wght@400;600&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ffeef2;
+    color: #660022;
+}
+
+.hero, .story-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to bottom, #ffccd5, #ffeef2);
+    text-align: center;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+.names {
+    font-family: 'Great Vibes', cursive;
+    font-size: 4rem;
+    margin: 0;
+}
+
+.date {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #991f3d;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #ff4d6d;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: background 0.3s;
+}
+
+.btn:hover {
+    background: #e63950;
+}
+
+.quote {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    margin: 0;
+    padding: 20px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px;
+}
+
+.gallery img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transition: transform 0.3s;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+}
+
+.back-btn {
+    display: block;
+    margin: 30px auto;
+    text-align: center;
+    width: fit-content;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.love-letter-page {
+    background-color: #fff0f5;
+    padding: 20px;
+}
+
+.love-letter {
+    max-width: 800px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #b22222;
+}
+
+
+/* Our Story page background quotes */
+.story-hero {
+    position: relative;
+    background-color: #fff0f5;
+}
+
+body.our-story-page {
+    background-color: #fff0f5;
+    background-image: 
+        repeating-linear-gradient(
+            45deg,
+            rgba(255, 192, 203, 0.15) 0%,
+            rgba(255, 192, 203, 0.15) 1%,
+            transparent 1%,
+            transparent 10%
+        ),
+        url('quotes-bg.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+/* For the quote background image, we'll create it as inline SVG text pattern */
