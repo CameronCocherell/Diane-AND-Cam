@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600">
+<style>
+    .quote { fill: rgba(255, 105, 180, 0.5); font-family: 'Georgia', serif; font-size: 18px; }
+</style>
+<text x="0" y="50" class="quote" transform="rotate(-25,0,50)">Forever plus a day and a half</text>
+<text x="300" y="50" class="quote" transform="rotate(5,300,50)">Do you have feelings or do you just have weak ass game</text>
+<text x="600" y="50" class="quote" transform="rotate(0,600,50)">You’re my best friend</text>
+<text x="900" y="50" class="quote" transform="rotate(25,900,50)">Dookie butt</text>
+<text x="1200" y="50" class="quote" transform="rotate(-15,1200,50)">You’re my best friend</text>
+<text x="0" y="150" class="quote" transform="rotate(0,0,150)">Do you have feelings or do you just have weak ass game</text>
+<text x="300" y="150" class="quote" transform="rotate(25,300,150)">Dookie butt</text>
+<text x="600" y="150" class="quote" transform="rotate(25,600,150)">I love you times 1000 plus 18</text>
+<text x="900" y="150" class="quote" transform="rotate(25,900,150)">I miss my honeys</text>
+<text x="1200" y="150" class="quote" transform="rotate(15,1200,150)">I love you times 1000 plus 18</text>
+<text x="0" y="250" class="quote" transform="rotate(-15,0,250)">Do you have feelings or do you just have weak ass game</text>
+<text x="300" y="250" class="quote" transform="rotate(25,300,250)">You’re hot, you’re cute, you’re sexy, you’re fly</text>
+<text x="600" y="250" class="quote" transform="rotate(5,600,250)">Do you have feelings or do you just have weak ass game</text>
+<text x="900" y="250" class="quote" transform="rotate(25,900,250)">I love you times 1000 plus 18</text>
+<text x="1200" y="250" class="quote" transform="rotate(5,1200,250)">I love you times 1000 plus 18</text>
+<text x="0" y="350" class="quote" transform="rotate(-5,0,350)">I love you times 1000 plus 18</text>
+<text x="300" y="350" class="quote" transform="rotate(5,300,350)">You’re hot, you’re cute, you’re sexy, you’re fly</text>
+<text x="600" y="350" class="quote" transform="rotate(5,600,350)">You’re my best friend</text>
+<text x="900" y="350" class="quote" transform="rotate(-5,900,350)">I miss my honeys</text>
+<text x="1200" y="350" class="quote" transform="rotate(-15,1200,350)">Do you have feelings or do you just have weak ass game</text>
+<text x="0" y="450" class="quote" transform="rotate(15,0,450)">Forever plus a day and a half</text>
+<text x="300" y="450" class="quote" transform="rotate(-25,300,450)">You’re hot, you’re cute, you’re sexy, you’re fly</text>
+<text x="600" y="450" class="quote" transform="rotate(-15,600,450)">Do you have feelings or do you just have weak ass game</text>
+<text x="900" y="450" class="quote" transform="rotate(15,900,450)">I miss my honeys</text>
+<text x="1200" y="450" class="quote" transform="rotate(-25,1200,450)">I miss my honeys</text>
+<text x="0" y="550" class="quote" transform="rotate(0,0,550)">Forever plus a day and a half</text>
+<text x="300" y="550" class="quote" transform="rotate(0,300,550)">I love you times 1000 plus 18</text>
+<text x="600" y="550" class="quote" transform="rotate(-25,600,550)">Forever plus a day and a half</text>
+<text x="900" y="550" class="quote" transform="rotate(25,900,550)">I love you times 1000 plus 18</text>
+<text x="1200" y="550" class="quote" transform="rotate(0,1200,550)">Dookie butt</text>
+</svg>
